@@ -1,4 +1,4 @@
-# ToDo-App-Django3
+# ToDo-App-Django4
 > A fully fledged website with authentication and CRUD operations, built in top of django3 framework and SQLlite
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
@@ -13,7 +13,7 @@
 
 For Windows
 
-`git clone https://github.com/shubendu/ToDo-App-Django3.git`
+`git clone https://github.com/bhawna94110/ToDo-App-Django4.git`
 
 ## Install project dependencies:
 
@@ -37,18 +37,17 @@ You can now run the development server:
 
 
 ## Tech Stack / Built With
-1. Django3 - The python framework
+1. Django4 - The python framework
 2. Bootstrap4 
 3. Heroku (for deployment)
 ## Authors
 
-- [@shubendu](https://www.github.com/shubendu)
+- [@Bhawana](https://www.github.com/bhawna94110)
 
   
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shubendu.netlify.app/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubendubiswas/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kbhawna/)
 
 
   
