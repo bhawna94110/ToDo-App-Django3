@@ -1,4 +1,4 @@
-# ToDo-App-Django4
+# ToDo-App-Django3
 > A fully fledged website with authentication and CRUD operations, built in top of django3 framework and SQLlite
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
